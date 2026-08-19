@@ -1,0 +1,5 @@
+{
+  "appId": "com.medievaltodo.app",
+  "appName": "my-react-app",
+  "webDir": "dist"
+}
